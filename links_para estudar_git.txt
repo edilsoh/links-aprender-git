@@ -8,3 +8,8 @@ https://www.youtube.com/watch?v=IBClN6VpJDw
 
 Plano para estudar Git e GitHub enquanto aprende programação:
 https://medium.com/william-oliveira/plano-para-estudar-git-e-github-enquanto-aprende-programa%C3%A7%C3%A3o-f5d5f986f459
+
+3)Aprenda GIT:
+
+Aprenda GIT jogando:
+http://aprenda.vidageek.net/aprenda/git
