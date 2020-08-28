@@ -13,3 +13,8 @@ https://medium.com/william-oliveira/plano-para-estudar-git-e-github-enquanto-apr
 
 Aprenda GIT jogando:
 http://aprenda.vidageek.net/aprenda/git
+
+4) Guit para iniciantes:
+
+Apenas um guia prático para começar com git. sem complicação:
+https://rogerdudler.github.io/git-guide/index.pt_BR.html
