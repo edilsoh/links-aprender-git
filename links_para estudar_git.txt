@@ -10,15 +10,15 @@ Plano para estudar Git e GitHub enquanto aprende programação:
 https://medium.com/william-oliveira/plano-para-estudar-git-e-github-enquanto-aprende-programa%C3%A7%C3%A3o-f5d5f986f459
 
 
-3)Aprenda GIT:
+3)Aprenda Git:
 
-Aprenda GIT jogando:
+Aprenda Git jogando:
 http://aprenda.vidageek.net/aprenda/git
 
 
-4) Guia prático para utilizar o github:
+4) Guia prático para utilizar o GitHub:
 
-Apenas um guia prático para começar com git. sem complicação e aprenda a fazer commit:
+Um guia prático para começar com Git sem complicação e aprenda a fazer commit:
 https://rogerdudler.github.io/git-guide/index.pt_BR.html
 
 
@@ -28,7 +28,7 @@ Tutorial para iniciar com o Git e o GitHub:
 http://devfuria.com.br/git/tutorial-iniciando-git/
 
 
-6) Criando e enviando arquivos para o seu repositório no Gitbub:
+6) Criando e enviando arquivos para o seu repositório no GitHub:
 
-Aprofundando um pouco os estudos e essencial para trabalhar com git, aprenda a criar e enviar arquivos:
+Aprofundando um pouco os estudos e essencial para trabalhar com Git, aprenda a criar e enviar arquivos:
 http://gabsferreira.com/criando-e-enviando-arquivos-para-seu-repositorio-no-github/
