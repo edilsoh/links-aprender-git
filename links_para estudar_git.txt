@@ -18,7 +18,7 @@ http://aprenda.vidageek.net/aprenda/git
 
 4) Guia prático para utilizar o github:
 
-Apenas um guia prático para começar com git. sem complicação:
+Apenas um guia prático para começar com git. sem complicação e aprenda a fazer commit:
 https://rogerdudler.github.io/git-guide/index.pt_BR.html
 
 
@@ -26,3 +26,9 @@ https://rogerdudler.github.io/git-guide/index.pt_BR.html
 
 Tutorial para iniciar com o Git e o GitHub:
 http://devfuria.com.br/git/tutorial-iniciando-git/
+
+
+6) Criando e enviando arquivos para o seu repositório no Gitbub:
+
+Aprofundando um pouco os estudos e essencial para trabalhar com git, aprenda a criar e enviar arquivos:
+http://gabsferreira.com/criando-e-enviando-arquivos-para-seu-repositorio-no-github/
