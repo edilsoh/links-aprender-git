@@ -33,10 +33,14 @@ Aprofundando um pouco os estudos e essencial para trabalhar com Git, aprenda a c
 http://gabsferreira.com/criando-e-enviando-arquivos-para-seu-repositorio-no-github/
 
 
-7) Apresendo a usar o GitHub Desktop:
+7) Aprendendo a usar o GitHub Desktop:
 
 Utilizando o GitHub no Windows:
 
 https://herbertrf.wordpress.com/2015/06/10/utilizando-o-github-no-windows/
 
-Acessado em 27/08/2020.
+Acessado em 27/08/2020
+
+8) Aprendendo a usar o GitHub em dispositivos móveis:
+
+https://docs.github.com/pt/github/getting-started-with-github/github-for-mobile
