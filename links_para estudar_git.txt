@@ -36,9 +36,9 @@ http://gabsferreira.com/criando-e-enviando-arquivos-para-seu-repositorio-no-gith
 7) Aprendendo a usar o GitHub Desktop:
 
 Utilizando o GitHub no Windows:
-
 https://herbertrf.wordpress.com/2015/06/10/utilizando-o-github-no-windows/
 
 8) Aprendendo a usar o GitHub em dispositivos móveis:
 
+Utilizando o GitHub em dispositivos:
 https://docs.github.com/pt/github/getting-started-with-github/github-for-mobile
