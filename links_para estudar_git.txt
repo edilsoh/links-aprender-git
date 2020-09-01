@@ -8,30 +8,25 @@ https://www.youtube.com/watch?v=IBClN6VpJDw
 Tutorial para iniciar com o Git e o GitHub:
 http://devfuria.com.br/git/tutorial-iniciando-git/
 
-
 3) Aprofundando um pouco seus estudos:
 
 Plano para estudar Git e GitHub enquanto aprende programação:
 https://medium.com/william-oliveira/plano-para-estudar-git-e-github-enquanto-aprende-programa%C3%A7%C3%A3o-f5d5f986f459
-
 
 4)Aprenda Git:
 
 Aprenda Git jogando:
 http://aprenda.vidageek.net/aprenda/git
 
-
 5) Guia prático para utilizar o GitHub:
 
 Um guia prático para começar com Git sem complicação e aprenda a fazer commit:
 https://rogerdudler.github.io/git-guide/index.pt_BR.html
 
-
 6) Criando e enviando arquivos para o seu repositório no GitHub:
 
 Aprofundando um pouco os estudos e essencial para trabalhar com Git, aprenda a criar e enviar arquivos:
 http://gabsferreira.com/criando-e-enviando-arquivos-para-seu-repositorio-no-github/
-
 
 7) Aprendendo a usar o GitHub Desktop:
 
@@ -43,4 +38,7 @@ https://herbertrf.wordpress.com/2015/06/10/utilizando-o-github-no-windows/
 Utilizando o GitHub em dispositivos:
 https://docs.github.com/pt/github/getting-started-with-github/github-for-mobile
 
-Atualizado em 31/08/2020
+9) Git para experts:
+ 
+Lista de comandos úteis do GIT:
+https://gist.github.com/leocomelli/2545add34e4fec21ec16
