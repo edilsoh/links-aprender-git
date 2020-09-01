@@ -42,3 +42,5 @@ https://herbertrf.wordpress.com/2015/06/10/utilizando-o-github-no-windows/
 
 Utilizando o GitHub em dispositivos:
 https://docs.github.com/pt/github/getting-started-with-github/github-for-mobile
+
+Atualizado em 31/08/2020
