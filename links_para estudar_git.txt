@@ -42,3 +42,8 @@ https://docs.github.com/pt/github/getting-started-with-github/github-for-mobile
  
 Lista de comandos úteis do GIT:
 https://gist.github.com/leocomelli/2545add34e4fec21ec16
+
+10) Usando branch:
+
+Git na Prática: Trabalhando com branch
+https://imasters.com.br/desenvolvimento/git-na-pratica-trabalhando-com-branch
